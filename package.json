@@ -2,7 +2,7 @@
   "name": "bwsi-auvc-slides",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build slides/*.md --out ../dist",
     "dev": "slidev --open",
     "export": "slidev export"
   },
