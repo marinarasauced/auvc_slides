@@ -2,13 +2,16 @@
   "name": "bwsi-auvc-slides",
   "private": true,
   "scripts": {
-    "build": "slidev build slides/*.md --out ../dist --base /slides/",
-    "dev": "slidev --open",
-    "export": "slidev export"
+    "build": "./slidev.sh build",
+    "dev": "./slidev.sh dev",
+    "export": "./slidev.sh export"
   },
   "dependencies": {
     "@slidev/cli": "^0.42.5",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.35.1"
   }
 }
