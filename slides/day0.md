@@ -136,7 +136,7 @@ As a team, you will be responsible for:
 
 ---
 
-# Teambuilding
+# Team Building
 
 - 🎲 **Icebreakers**: We will be doing icebreakers to get to know each other
 - 👀 **Scavenger Hunt**: We will be doing a scavenger hunt around MIT
