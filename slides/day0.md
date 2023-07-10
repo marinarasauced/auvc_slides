@@ -26,7 +26,7 @@ download: true
 
 ---
 layout: intro-image-right
-image: 'https://images.unsplash.com/photo-1497170675097-81fc06e915da?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80'
+image: '/slides/day0/Saad.jpg'
 ---
 
 # Mohamed Saad <br> Ibn Seddik
@@ -40,14 +40,39 @@ image: 'https://images.unsplash.com/photo-1497170675097-81fc06e915da?ixlib=rb-4.
 
 ---
 layout: intro-image-right
-image: 'https://images.unsplash.com/photo-1652112428688-b328e9d86f5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=927&q=80'
+image: '/slides/day0/Asjad.jpg'
 ---
 
-# Teaching Assistants
+# Syed Mohammad Asjad
+## Teaching Assistant
 
-- Syed Mohammad Asjad
-- Max Berman
-- Vincent Vandyck
+- 🎓 Master's in Robotics
+- Autonomous Aerial Vehicles and Computer Vision Enthusiast
+- Believes Linux > Windows
+
+---
+layout: intro-image-right
+image: '/slides/day0/Max190.jpg'
+---
+
+# Max Berman
+## Teaching Assistant
+
+- Majoring with Bachelors of Science in Robotics Engineering at WPI (2025)
+- Mentor for FRC 190 and volunteer for robotics events at WPI
+- I like to play guitar or videogames when I have time
+
+---
+layout: intro-image-right
+image: '/slides/day0/Vincent.jpg'
+---
+
+# Vincent Vandyck
+## Teaching Assistant
+
+- Bachelors in Computer Science
+- Working for a company creating an autonomous sailboat
+- I have a pilot's license and love climbing and the occasional video game when I find the time for it.
 
 ---
 
