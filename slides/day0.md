@@ -26,7 +26,7 @@ download: true
 
 ---
 layout: intro-image-right
-image: '/slides/day0/Saad.jpg'
+image: 'https://blksail-edu.github.io/people/Saad.jpg'
 ---
 
 # Mohamed Saad <br> Ibn Seddik
@@ -40,7 +40,7 @@ image: '/slides/day0/Saad.jpg'
 
 ---
 layout: intro-image-right
-image: '/slides/day0/Asjad.jpg'
+image: 'https://blksail-edu.github.io/people/Asjad.jpg'
 ---
 
 # Syed Mohammad Asjad
@@ -52,7 +52,7 @@ image: '/slides/day0/Asjad.jpg'
 
 ---
 layout: intro-image-right
-image: '/slides/day0/Max190.jpg'
+image: 'https://blksail-edu.github.io/people/Max.jpg'
 ---
 
 # Max Berman
@@ -64,7 +64,7 @@ image: '/slides/day0/Max190.jpg'
 
 ---
 layout: intro-image-right
-image: '/slides/day0/Vincent.jpg'
+image: 'https://blksail-edu.github.io/people/Vincent.jpg'
 ---
 
 # Vincent Vandyck
